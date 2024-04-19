@@ -312,3 +312,6 @@
 /Applications/Inkscape.app/Contents/MacOS/inkscape ../svg/enable.svg --export-type="png" -w 16 -h 16
 /Applications/Inkscape.app/Contents/MacOS/inkscape ../svg/upAndDownArrow.svg --export-type="png" -w 16 -h 16
 /Applications/Inkscape.app/Contents/MacOS/inkscape ../svg/userFemale.svg --export-type="png" -w 16 -h 16
+
+#new icons in Pharo 12
+/Applications/Inkscape.app/Contents/MacOS/inkscape ../svg/smallPharo.svg --export-type="png" -w 16 -h 16
