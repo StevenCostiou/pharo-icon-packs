@@ -10,8 +10,6 @@
 /Applications/Inkscape.app/Contents/MacOS/inkscape ../svg/back.svg --export-type="png" -w 16 -h 16
 /Applications/Inkscape.app/Contents/MacOS/inkscape ../svg/bitbucket.svg --export-type="png" -w 16 -h 16
 /Applications/Inkscape.app/Contents/MacOS/inkscape ../svg/blank.svg --export-type="png" -w 16 -h 1
-/Applications/Inkscape.app/Contents/MacOS/inkscape ../svg/blank10.svg --export-type="png" -w 10 -h 1
-/Applications/Inkscape.app/Contents/MacOS/inkscape ../svg/blank16.svg --export-type="png" -w 16 -h 1
 /Applications/Inkscape.app/Contents/MacOS/inkscape ../svg/book.svg --export-type="png" -w 13 -h 13
 /Applications/Inkscape.app/Contents/MacOS/inkscape ../svg/bottom.svg --export-type="png" -w 16 -h 16
 /Applications/Inkscape.app/Contents/MacOS/inkscape ../svg/branch.svg --export-type="png" -w 16 -h 16
