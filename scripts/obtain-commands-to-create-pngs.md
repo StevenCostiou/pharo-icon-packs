@@ -24,6 +24,15 @@ Smalltalk ui icons allIconNames sorted
     
     Transcript crShow:
         cmd1, iconName , cmd2 , width asString , cmd3 , height asString ].
+
+"New icons added in Pharo 12"
+#( 'smallPharo' )
+    do: [ :iconName |  | icon width height | 
+    width := (16 * scale) rounded.
+    height := (16 * scale) rounded.
+    
+    Transcript crShow:
+        cmd1, iconName , cmd2 , width asString , cmd3 , height asString ].
 ```
 To load specific PNG icons in Pharo, use the following script:
 ```

@@ -308,3 +308,4 @@
 /Applications/Inkscape.app/Contents/MacOS/inkscape ../svg/enable.svg --export-type="png" -w 24 -h 24
 /Applications/Inkscape.app/Contents/MacOS/inkscape ../svg/upAndDownArrow.svg --export-type="png" -w 24 -h 24
 /Applications/Inkscape.app/Contents/MacOS/inkscape ../svg/userFemale.svg --export-type="png" -w 24 -h 24
+/Applications/Inkscape.app/Contents/MacOS/inkscape ../svg/smallPharo.svg --export-type="png" -w 24 -h 24
