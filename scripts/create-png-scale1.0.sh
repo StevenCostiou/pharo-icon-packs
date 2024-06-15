@@ -313,3 +313,7 @@
 
 #new icons in Pharo 12
 /Applications/Inkscape.app/Contents/MacOS/inkscape ../svg/smallPharo.svg --export-type="png" -w 16 -h 16
+
+#new icons in Pharo 13
+/Applications/Inkscape.app/Contents/MacOS/inkscape ../svg/githubLight.svg --export-type="png" -w 16 -h 16
+/Applications/Inkscape.app/Contents/MacOS/inkscape ../svg/jigsaw.svg --export-type="png" -w 16 -h 16
